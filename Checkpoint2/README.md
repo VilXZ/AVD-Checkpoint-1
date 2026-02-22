@@ -1,4 +1,4 @@
-# *Analitik dan Visualisasi Data*
+# Analitik dan Visualisasi Data
 
 Nama  : Dzulrrahim Oscar Aditya Akbar
 
